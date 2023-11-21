@@ -2,7 +2,7 @@
 ### Pablo Alejandro Badani Zambrana - 55789
 
 # Reconocimiento de curso - Descripcion: 
-Bueno es una aplicacion de reconocimiento facial especializada en el control de un curso para evitar personas que no sean parte del curso y tener documentada la entrada de cada estudiante.
+La aplicacion presente de reconocimiento facial se especializa en el control de un curso para evitar personas que no sean parte del curso y tener documentada la entrada de cada estudiante.
 
 # Reconocimiento de curso - Funcionalidad:
 Para poder utilizarla se debe hacer correr el archivo app.py, despues se tiene que ir al link proporcionado para irnos a la interfaz de fastAPI donde tendremos que poner la ruta "/docs" para poder ingresar a los diferentes endpoint:
